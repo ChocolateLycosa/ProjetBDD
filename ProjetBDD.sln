@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetBDD", "ProjetBDD\ProjetBDD.csproj", "{F5537C91-2397-4C4A-8CA9-7D259B669371}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ClientProjetBDD", "ClientProjetBDD\ClientProjetBDD.njsproj", "{9DCD61FA-13D8-41E3-9280-3FFD64853AC0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F5537C91-2397-4C4A-8CA9-7D259B669371} = {F5537C91-2397-4C4A-8CA9-7D259B669371}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
