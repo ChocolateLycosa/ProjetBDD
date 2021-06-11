@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetBDD", "ProjetBDD\ProjetBDD.csproj", "{F5537C91-2397-4C4A-8CA9-7D259B669371}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ClientProjetBDD", "ClientProjetBDD\ClientProjetBDD.njsproj", "{F85E0781-D61F-4F19-B38C-356994AD6F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5537C91-2397-4C4A-8CA9-7D259B669371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5537C91-2397-4C4A-8CA9-7D259B669371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5537C91-2397-4C4A-8CA9-7D259B669371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5537C91-2397-4C4A-8CA9-7D259B669371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85E0781-D61F-4F19-B38C-356994AD6F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85E0781-D61F-4F19-B38C-356994AD6F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85E0781-D61F-4F19-B38C-356994AD6F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85E0781-D61F-4F19-B38C-356994AD6F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1427D6-80D6-488F-B0FA-B4841072A987}
+	EndGlobalSection
+EndGlobal
