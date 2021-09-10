@@ -1,0 +1,22 @@
+<p>register works!</p>
+<div class="container">
+    <div class="col-6">
+        <div class="row">
+            <label>Artiste</label>
+            <input [(ngModel)]="artist" type="text"/>
+        </div>
+        <div class="row">
+            <label>Album</label>
+            <input [(ngModel)]="album" type="text"/>
+        </div>
+        <div class="row">
+            <label>Titre</label>
+            <input [(ngModel)]="title" type="text"/>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="row">
+            <button (click)="submit()">Rechercher et Enregistrer</button>
+        </div>
+    </div>
+</div>
