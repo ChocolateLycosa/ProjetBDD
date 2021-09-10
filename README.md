@@ -13,4 +13,4 @@ Il s'agit ici de permettre la creation d'une base de données permettant de rest
 
 ## Schéma de base de données
 
-[](database_schema2.png)
+![](database_schema2.png)
