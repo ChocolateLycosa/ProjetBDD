@@ -10,3 +10,7 @@
 ## Solution recherchée
 
 Il s'agit ici de permettre la creation d'une base de données permettant de restituer  les paroles et les tablatures pour un titre donné. 
+
+## Schéma de base de données
+
+[](database_schema2.png)
