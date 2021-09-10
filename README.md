@@ -4,8 +4,8 @@
 ## APIs utilisés
 - Songsterr API: 
     - Un API permettant de récupérer des tablatures et grilles d'accord pour guitare par artiste et titre (https://www.songsterr.com/a/wa/api/?ref=apilist.fun)
-- lyrics.ovh: 
-    - Un API permettant de récupérer les paroles d'un titre (https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search)
+- MusixMatch API: 
+    - Un API permettant de récupérer les paroles d'un titre avec des informations (https://developer.musixmatch.com/)
 
 ## Solution recherchée
 
